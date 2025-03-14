@@ -1,0 +1,16 @@
+# Ignore environment variables file
+
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore data and database directories
+data/
+db/
+
+# Ignore virtual environment folder
+venv/
+.env
+
+
+# Ignore requirements.txt if you don’t want to track it (optionalgi
