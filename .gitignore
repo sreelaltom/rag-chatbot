@@ -5,7 +5,7 @@
 __pycache__/
 
 # Ignore data and database directories
-data/
+
 db/
 
 # Ignore virtual environment folder

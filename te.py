@@ -1,6 +1,6 @@
 import requests
 import json
-API_KEY = "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 "
+API_KEY = "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"
 response = requests.post(
   url="https://openrouter.ai/api/v1/chat/completions",
   headers={
